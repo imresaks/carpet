@@ -1,0 +1,8 @@
+{
+  "ios": {
+    "bundleIdentifier": "com.anonymous.my-v0-project"
+  },
+  "android": {
+    "package": "com.anonymous.myv0project"
+  }
+}
